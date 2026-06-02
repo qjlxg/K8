@@ -106,6 +106,6 @@ if __name__ == '__main__':
     for t in threads: t.start()
     url_queue.join()
     
-    with open('all_nodes.yaml', 'w', encoding="utf-8") as f:
+    with open('all_nodes.txt', 'w', encoding="utf-8") as f:
         yaml.dump(list(all_nodes_dict.values()), f, allow_unicode=True)
     logger.info(f"挖掘完成。共提取唯一节点对象: {len(all_nodes_dict)}")
