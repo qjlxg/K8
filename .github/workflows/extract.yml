@@ -1,0 +1,37 @@
+name: Node Extraction Workflow
+
+on:
+  push:
+    paths:
+      - 'deep_extract.py'  # 仅当核心脚本变动时触发
+      - 'latest.yaml'
+      - '.github/workflows/extract.yml'
+  schedule:
+    # 北京时间每天早上 8:00 运行 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml requests loguru
+
+      - name: Run extraction script
+        run: python deep_extract.py
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: extracted-nodes
+          path: all_nodes.txt
