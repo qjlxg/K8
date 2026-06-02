@@ -39,9 +39,9 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           
-          # 检查 all_nodes.yaml 和 output/ 目录是否有变动
-          if [ -n "$(git status --porcelain all_nodes.txt output/)" ]; then
-            git add all_nodes.txt output/
+          # 只检查根目录下的 all_nodes.txt
+          if [ -n "$(git status --porcelain all_nodes.txt)" ]; then
+            git add all_nodes.txt
             git commit -m "Auto-update nodes: $(date '+%Y-%m-%d %H:%M:%S')"
             git push
           else
