@@ -100,7 +100,7 @@ def to_uri(node):
 # ======================
 # 节点处理框架
 # ======================
-def process_nodes(input_file='all_nodes.yaml', output_file='all_nodes.txt'):
+def process_nodes(input_file='all_nodes.txt', output_file='all_nodes.txt'):
     try:
         if not os.path.exists(input_file):
             raise FileNotFoundError(f"未找到文件: {input_file}")
