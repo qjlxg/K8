@@ -39,11 +39,13 @@ def extract_channels(nodes):
     """从节点名称或备注中提取 @频道名称（使用负向先行断言优化）"""
     channels = set()
     # 匹配 @ 前面不是字母数字下划线，防止匹配到邮箱
-    pattern = re.compile(r'(?<![a-zA-Z0-9_])@([a-zA-Z0-9_]{5,32})')
+    pattern = re.compile(r'(?<![a-zA-Z0-9_])@([a-zA-Z0-9_]{3,32})')
     for node in nodes:
-        name = node.get('name', '')
-        remark = node.get('remark', '')
-        found = pattern.findall(str(name)) + pattern.findall(str(remark))
+        if not isinstance(node, dict):
+            continue
+        name = str(node.get('name', ''))
+        remark = str(node.get('remark', ''))
+        found = pattern.findall(name) + pattern.findall(remark)
         for channel in found:
             channels.add(f"https://t.me/{channel}")
     return channels
