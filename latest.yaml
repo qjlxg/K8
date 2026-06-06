@@ -5,7 +5,6 @@ clash订阅:
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 - https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 - https://downloads.onelighter.site/api/v1/client/subscribe?token=a98566da3743cc8a3ab8e9d16190c39a
-- https://dxy1h.twiladaphne.ndjp.net/sub?token=a3d0bdcd0b83af04887576ac6c93c5e4
 - https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 - https://github.com/0KABE/ConfConvertor
 - https://github.com/0KABE/ConfConvertor#clash
@@ -16,6 +15,7 @@ clash订阅:
 - https://mojie.app/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
 - https://proxypool.dmit.dpdns.org/clash/proxies
+- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
 - https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 - https://raw.githubusercontent.com/AlienVPN402/Clash-Subscribe/main/index.html
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
@@ -24,13 +24,11 @@ clash订阅:
 - https://shz.al/3JE3
 - https://shz.al/CJJW
 - https://shz.al/hAXt
-- https://ss.hhyy.nn.kg/sub?token=f8ed344e6b2cf268b1af5b31aedebccd
 - https://sub.pusytroller.gq/?url=freenodes
 - https://suba.f2vip.net/api/v1/client/subscribe?token=c37474f28ddc28f2c9c3082e8b387a53
 - https://suba.f2vip.net/api/v1/client/subscribe?token=fba8340c84bd9f6eb26cb3a83f018ab6
 - https://tt.vg/KY5Q4WO
 - https://tt.vg/mmF9RI0
-- https://vl.zacharybilly.ndjp.net/sub?token=22764987c8e0fff5592294368011a5da
 - https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
 - https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
 v2订阅:
