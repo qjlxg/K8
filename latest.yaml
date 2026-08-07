@@ -23,7 +23,6 @@ clash订阅:
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f
 - https://oss.oneclash.cc/2026/08/20260805.yaml
 - https://oss.oneclash.cc/2026/08/m20260805.yaml
-- https://panel.vpnpanel.pro/sub/djMsNDc3NzMsMTc4NjEwOTQxMA3d32c6cacc
 - https://proxypool.dmit.dpdns.org/clash/proxies
 - https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
 - https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
@@ -59,6 +58,7 @@ v2订阅:
 - https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
 - https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_1.txt
 - https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_1.txt
+- https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt?s=09#V2RAY_BASE64
 - https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - https://shz.al/a4mE
 - https://sub.iampedi5.live/sub/base64.txt
