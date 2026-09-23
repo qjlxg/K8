@@ -1,7 +1,6 @@
 clash订阅:
 - http://36.133.43.24:8081/sub/api/subscribe?token=27d032a522be7f13b084de12080cc4a0
 - http://36.133.43.24:8081/sub/api/subscribe?token=5891d7bdc47a50951fdf0c5f5652048e
-- https://189.24.64.91:33333/api/v1/client/subscribe?token=cf43959112df95b5cab4cdd39760807f
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
@@ -10,7 +9,6 @@ clash订阅:
 - https://fasttool.org/api/v1/sub/0Z9ZJANxZrF9d38InX9i4ZtBYXe-4vyS
 - https://freesocks.org/api/v1/sub/31d21cb2ef01108bc9ae3523feffba82
 - https://freesocks.org/api/v1/sub/7f344f418a3739db8170d3a1daab0e35
-- https://freesocks.org/api/v1/sub/c7eaecf00635d4d6baa94f3c79b59449
 - https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 - https://github.com/0KABE/ConfConvertor
 - https://github.com/0KABE/ConfConvertor#clash
@@ -18,6 +16,9 @@ clash订阅:
 - https://github.com/0KABE/ConfConvertor/tree/master#filter
 - https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 - https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
+- https://node.clash-party.cc/uploads/2026/09/0-20260924.yaml
+- https://node.clash-party.cc/uploads/2026/09/2-20260924.yaml
+- https://ran.qhrgobull.fun/api/v1/client/subscribe?token=06be006111bda9b886bb4d57ac2cd9a1#AV
 - https://ran.qhrgobull.fun/api/v1/client/subscribe?token=06be006111bda9b886bb4d57ac2cd9a1#AV%E7%84%A1%E7%A2%BCAVToday.io
 - https://raw.githubusercontent.com/AlienVPN402/Clash-Subscribe/main/index.html
 - https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Clash_Reality
@@ -25,6 +26,7 @@ clash订阅:
 - https://raw.githubusercontent.com/hello-world-1989/cn-news/refs/heads/main/clash.yaml
 - https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 - https://raw.githubusercontent.com/suiyuan8/clash/refs/heads/main/config2
+- https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml
 - https://sub.lyravault.ir:443/sub/djMsNjA5OTgsMTc4NjA1MjQyMwbbd184d554
 - https://sub.ssr.sh/link/Vdi3pIHFHRKqMj3S?clash=2
 - https://sub.ssr.sh/link/Vdi3pIHFHRKqMj3S?clash=2#
@@ -49,18 +51,23 @@ v2订阅:
 - https://app.sublink.works/x/LrNeqcJ
 - https://app.sublink.works/x/RNeVb38
 - https://app.sublink.works/x/cMuwTvV
+- https://node.clash-party.cc/uploads/2026/09/3-20260924.txt
+- https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 - https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
 - https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_1.txt
-- https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt?s=09#V2RAY_BASE64
+- https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_1.txt
+- https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
 - https://shz.al/3ihQ
 - https://shz.al/yMWm
 - https://shz.al/yeiX
+- https://sub.maxilion.ir:2096/sub/45016458a8c54e3f
 - https://zhuhai.uk/subs/TG-%40dns68-333e0744fbee.txt
 机场订阅:
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
 - https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 - https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
+- https://sub.maxilion.ir:2096/sub/45016458a8c54e3f
 - https://xship.2fa.cat/v1/subscribe?starlink=aZ1814paAe56zSCvyL0_Ol23
 - https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc
 - https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc#AV
